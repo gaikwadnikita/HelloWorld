@@ -8,7 +8,7 @@
 export default {
     data(){
         return {
-            language:'Hello World by Vuejs'
+            language:'Hello World'
         }
     }
   

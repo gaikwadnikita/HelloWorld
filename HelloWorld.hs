@@ -1,0 +1,2 @@
+putStrLn "Hello, world!"
+
